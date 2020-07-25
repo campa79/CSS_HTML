@@ -1,0 +1,38 @@
+body{
+	background-color:#2E2EFE; 
+}
+
+#Nombre{
+		font-size:30px;
+		background-color: #FFB3DA;
+		color:#FFFFFF;
+		text-align: center;
+		}
+
+a 	{
+	font-size:20px;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #FFB3DA;
+	color:#6B71C0;
+	margin-top: 20px;
+	background-size:auto;
+	border: 1px solid #AEED11;
+	padding: 1px 5px;
+	}
+
+a:hover, a:active
+	{
+	background-color: #AEED11;
+	color: #FFB3DA;
+	}
+
+#descripcion{
+	font-size:30px;
+	margin-left:15px;
+	margin-bottom:25px;
+	margin-top:15px;
+	color: #AEED11;
+	}
+
+

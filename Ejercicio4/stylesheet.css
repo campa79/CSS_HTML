@@ -1,0 +1,23 @@
+body {
+  background-color: #9FF781;
+}
+
+#Titulo{
+margin-top:50px;
+font-size:50px;
+font-family:serif;
+}
+
+#ResumenNoticia{
+font-size:20px;
+margin-left:20px;
+font-style: italic;
+color:#0070FF;
+}
+
+#Noticia{
+font-size:15px;
+margin-left:20px;
+margin-right:600px;
+color:#B22222;
+}

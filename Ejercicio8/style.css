@@ -1,0 +1,19 @@
+
+body
+	{
+	background-color:#C0C0C0;
+	}
+
+h1,h3
+	{
+	color:#000000;
+	text-align:center;
+	}
+
+p 
+	{
+	font-family:Lucida Sans Unicode;
+	font-size: 20px;
+	color:green;
+	text-align:center;
+	}
